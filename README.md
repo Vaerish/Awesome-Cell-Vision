@@ -35,11 +35,11 @@ Check your performance on Kaggle using their submission checker, where you may s
 
 7. Submit any related files, *.py, *.ipynb, *.csv, etc. to this repository.
 Things you are required to submit include:
-    * Scripts and notebooks.
-    * CSV submission file, with format, etc defined in the competition rules.
+    * `pa06-cell-vision.py` or `pa06-cell-vision.ipynb` and any supporting python files you want to include in the repo.
+    * `my_working_kaggle_submission.csv` submission file, with format, etc defined in the competition rules.
     * `my_working_kaggle_submission.png` a Screenshot of your displayed performance on the Kaggle site, as judged by the automated submission system's grading of your submitted CSV (the one from the previous bullet).
     * `pa06-report.pdf` a PDF report detailing your approach, methods, results, interpretation, and any difficulties encountered. Please include all project members names at the top.
-    * Please DO NOT submit the massive data files!
+    * Please **DO NOT** submit the massive data files!
 
 **Have fun!**
 
