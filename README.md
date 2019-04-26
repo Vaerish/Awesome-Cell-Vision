@@ -10,8 +10,9 @@ For preparation, before you start.
 
 2. Peruse the PDFs I provided on biological image processing, starting with the single paper, then as many chapters of the book as you can get through and find rewarding.
 
-3. Read all about the competition by systematically perusing all the tabs on this site:
-https://datasciencebowl.com/
+3. Learn about the projcet.
+    * Read all about the competition by systematically perusing all the tabs on this site:
+    https://datasciencebowl.com/
     * Enjoy a little hype:
     https://www.youtube.com/watch?time_continue=7&v=eHwkfhmJexs
     * Watch this more informative video:
@@ -30,8 +31,7 @@ The competition ended, so we have missed the window to win the $100,000 prize, b
 You can use pre-built libraries, or do most from scratch, whichever approach you are interested in.
 I suggest trying a threshold based method first.
 Check your performance on Kaggle using their submission checker, where you may submit a maximum of 5 entries per day:
-
-https://www.kaggle.com/c/data-science-bowl-2018/submit 
+    * https://www.kaggle.com/c/data-science-bowl-2018/submit 
 
 7. Submit any related files, *.py, *.ipynb, *.csv, etc. to this repository.
 Things you are required to submit include:
