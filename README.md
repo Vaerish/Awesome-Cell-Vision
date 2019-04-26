@@ -20,7 +20,7 @@ For preparation, before you start. This is a significant project. Getting just t
     * Read all the sub-sections of the overview tab on this page:
     https://www.kaggle.com/c/data-science-bowl-2018
 
-4. Download and get comfortable with the data.
+4. Download and get comfortable with the data. What are the data formats? How is the mask (label) of the train answers encoded? Don't proceed until you have that figured out! 
 
 5. Review the "Kernels" tab of the below link, as well as the "Discussion" tab for information about other participants' experiences and thoughts on the data and its analysis. 
 The competition ended, so we have missed the window to win the $100,000 prize, but that is actually beneficial for being able to see the set of solutions that did well and those that did not. 
