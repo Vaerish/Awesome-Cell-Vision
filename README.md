@@ -32,7 +32,7 @@ The competition ended, so we have missed the window to win the $100,000 prize, b
 
 6. Using your choice of Python environment and libraries, attempt to satisfy the goals of the competition. 
 You can use pre-built libraries, or do most from scratch, whichever approach you are interested in.
-I suggest trying a threshold based method first.
+I suggest trying a primitive histogram based method first.
 Check your performance on Kaggle using their submission checker, where you may submit a maximum of 5 entries per day:
     * https://www.kaggle.com/c/data-science-bowl-2018/submit 
 
