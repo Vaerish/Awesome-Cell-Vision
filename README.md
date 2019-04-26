@@ -4,7 +4,7 @@
 
 #### Program a viable submission to the 2018 Data Science Bowl Competition: "Spot Nuclei. Speed Cures." 
 
-For preparation, before you start.
+For preparation, before you start. This is a significant project. Getting just the framework in place to submit a valid kaggle submission may be effortful for you. Start early and work together! 
 
 1. Review all the vision-related python links/code I provided, especially the segmentation demos.
 
